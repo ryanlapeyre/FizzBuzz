@@ -3,16 +3,8 @@
 void performFizzBuzz(void);
 
 int main (void)
-
 {
-
-
-
     performFizzBuzz();
-
-
-
-
     return 0;
 }
 
